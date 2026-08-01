@@ -18,9 +18,9 @@ This repository serves as a centralized workspace for all course-related materia
 
 ## 👤 Student Information
 
-* **Name:** *[Your Full Name]*
-* **Program & Section:** *[Your Program & Section]*
-* **Instructor:** *[Instructor's Name]*
+* **Name:** *[Willie R. Licay]*
+* **Program & Section:** *[BSIT 4-A]*
+* **Instructor:** *[Jenkielyn C.Torres]*
 * **Academic Year:** **2026–2027**
 
 ---
