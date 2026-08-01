@@ -4,24 +4,23 @@
 
 ## 📌 About This Repository
 
-This repository serves as a centralized workspace for all course-related materials throughout the semester. It contains organized documentation, learning resources, and outputs completed as part of the Cloud Computing course.
+This repository serves as my organized workspace for all course requirements throughout the Cloud Computing course, including:
 
 ### Contents
 
-* 📝 Class notes and lecture summaries
-* 🧪 Laboratory activities and exercises
-* 💻 Mini-projects and practical applications
-* 📚 Reflection papers and assignments
-* 📂 Supporting files and references
+*  Class notes and summaries
+*  Lab activities and exercises
+*  Mini-projects
+*  Reflection papers
 
 ---
 
 ## 👤 Student Information
 
-* **Name:** *[Willie R. Licay]*
-* **Program & Section:** *[BSIT 4-A]*
-* **Instructor:** *[Jenkielyn C.Torres]*
-* **Academic Year:** **2026–2027**
+* **Name:** *Willie R. Licay*
+* **Program & Section:** *BSIT 4-A*
+* **Instructor:** *Jenkielyn C.Torres*
+* **Academic Year:** *2026–2027*
 
 ---
 
@@ -38,27 +37,16 @@ cloud-computing-course/
 
 ---
 
-## 📖 Topics Covered
+## 📖 Key Concepts Covered
 
-Throughout this course, the repository will include materials related to:
+This repository will contain and learning materials related to:
 
-* Cloud Computing Fundamentals
-* Cloud Service Models (IaaS, PaaS, SaaS)
-* Cloud Deployment Models (Public, Private, Hybrid, and Community)
+* Cloud Computing Basics
+* Service Models (IaaS, PaaS, SaaS)
+* Deployment Models (Public, Private, Hybrid, and Community)
 * Version Control using Git and GitHub
+*Version Control with Git & GitHub
 * Cloud Infrastructure Management
-* Hands-on Laboratory Activities and Projects
-
----
-
-## 🎯 Repository Purpose
-
-This repository is intended to:
-
-* Organize and document all course outputs
-* Track learning progress throughout the semester
-* Showcase practical cloud computing skills
-* Maintain a portfolio of completed activities and projects
 
 ---
 
