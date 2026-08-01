@@ -1,4 +1,4 @@
-# ☁️ Cloud Computing Course Repository
+#  Cloud Computing Course Repository
 
 > **A collection of course activities, projects, notes, and learning resources for Cloud Computing.**
 
@@ -63,6 +63,4 @@ This repository will contain and learning materials related to:
 
 ---
 
-## 📌 Note
 
-This repository is maintained for academic purposes as part of the **Cloud Computing** course requirements. It will be updated regularly as new lessons, activities, and projects are completed.
